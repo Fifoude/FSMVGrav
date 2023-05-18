@@ -1,0 +1,18 @@
+name: Fsmvtheme
+slug: fsmvtheme
+type: theme
+version: 0.1.0
+description: Le thème de FSMV basé sur Quark
+icon: rebel
+author:
+  name: Philippe
+  email: fifoude@hotmail.com
+homepage: https://github.com/Fifoude/grav-theme-fsmvtheme
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/Fifoude/grav-theme-fsmvtheme/issues
+readme: https://github.com/Fifoude/grav-theme-fsmvtheme/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }
