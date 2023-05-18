@@ -138,22 +138,6 @@ form:
             use: keys
             state:
                 visible: false
-        typo:
-            type: select
-            label: 'Type of request'
-            options:
-                general: 'General inquiry'
-                support: 'Technical support'
-                billing: 'Billing question'
-        support-topic:
-            type: select
-            label: 'Support topic'
-            options:
-                installation: Installation
-                configuration: Configuration
-                bug-report: 'Bug report'
-            state:
-                visible: false
         agree_to_terms:
             type: checkbox
             label: 'J''atteste la validité des informations ci-dessus renseignées et avoir pris connaissance des statuts'
@@ -162,10 +146,6 @@ form:
         captcha:
             type: turnstile
             theme: light
-        content:
-            type: section
-            title: Toto
-            underline: true
     buttons:
         submit:
             type: submit

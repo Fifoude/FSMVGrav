@@ -27,7 +27,10 @@ form:
             type: textarea
             validate:
                 required: true
-    buttons:
+        captcha:
+            type: turnstile
+            theme: light
+buttons:
         submit:
             type: submit
             value: Soumettre
