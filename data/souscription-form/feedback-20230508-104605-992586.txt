@@ -1,0 +1,15 @@
+Civilité: madame
+Prénom: Myriam
+Nom: Prune
+Date de naissance: 2023-05-04
+Nationalité: française
+Situation familiale: single
+N° &amp; nom de rue: 3 rue des moulins
+Code Postal: 92150
+Ville: Nanterre
+Courriel: plakas@mailo.com
+Téléphone: 9876554
+Nombre de part(s) souscrite(s): 1
+Mode de règlement: virement
+J&#039;atteste la validité des informations ci-dessus renseignées et avoir pris connaissance des statuts: 1
+

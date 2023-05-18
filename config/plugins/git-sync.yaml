@@ -1,0 +1,35 @@
+enabled: true
+folders:
+  - pages
+  - themes
+  - plugins
+  - config
+  - data
+SyncNotice: null
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+local_repository: null
+repository: 'https://github.com/Fifoude/FSMV_Grav.git'
+no_user: '0'
+user: fifoude@hotmail.com
+password: gitsync-def50200a1a89dababe23c847c211ebf18e4bb0cceb94d9ce95b329f3342e2ebfc1dcd3e1e8857e483b2d92520da43742fccaf4a1c71844655cec69a90184f8c260491de193e8d6848a1f6717a571bf9e23a4b61548ca37718ddc395be
+webhook: /_git-sync-16e16a1b10b8
+webhook_enabled: '0'
+webhook_secret: 427466d39b9a55ffc7b4e1abb645ee842a1d6a54ab4a290f
+branch: main
+remote:
+  name: origin
+  branch: main
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+  ignore: null
+  private_key: null
+logging: false

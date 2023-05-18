@@ -1,0 +1,12 @@
+enabled: true
+
+id: "leaflet"
+width: 100%
+height: 450
+class: "leaflet"
+lat: "51"
+lng: "0"
+lat_marker: "51"
+lng_marker: "0"
+address: "Paris"
+zoom: 20

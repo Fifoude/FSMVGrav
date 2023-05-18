@@ -1,0 +1,2 @@
+enabled: true
+css_inline: "a {\n    color: #F86D20;\n}\na:hover {\n    color: #8BB92F;\n}\n\n"

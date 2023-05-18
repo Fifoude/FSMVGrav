@@ -1,0 +1,15 @@
+Civilité: madame
+Prénom: philippe
+Nom: lakas
+Date de naissance: 2023-05-05
+Nationalité: française
+Situation familiale: single
+N° &amp; nom de rue: 4 rue des moulins
+Code Postal: 92150
+Ville: suresnes
+Courriel: plakas@mailo.com
+Téléphone: 01 23 45 67 89
+Nombre de part(s) souscrite(s): 1
+Mode de règlement: virement
+J&#039;atteste la validité des informations ci-dessus renseignées et avoir pris connaissance des statuts: 1
+
