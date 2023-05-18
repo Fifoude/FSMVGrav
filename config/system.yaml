@@ -1,6 +1,5 @@
 absolute_urls: false
 timezone: Europe/Paris
-default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
@@ -25,7 +24,6 @@ languages:
   session_store_active: false
   http_accept_language: false
   override_locale: false
-  content_fallback: {  }
   pages_fallback_only: false
 home:
   alias: /home
@@ -194,7 +192,7 @@ media:
 session:
   enabled: true
   initialize: true
-  timeout: 1800
+  timeout: 10800
   name: grav-site
   uniqueness: path
   secure: false
