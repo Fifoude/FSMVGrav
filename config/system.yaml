@@ -35,7 +35,7 @@ pages:
   type: regular
   dirs:
     - 'page://'
-  theme: learn2
+  theme: fsmvtheme
   order:
     by: default
     dir: asc
