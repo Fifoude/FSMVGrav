@@ -1,4 +1,5 @@
-<div class="modular-row form {{ page.header.class }}">
+{% extends 'partials/base.html.twig' %}
+{#<div class="modular-row form {{ page.header.class }}">#}
     {{ content|raw }}
     {% include "forms/form.html.twig" %}
-</div>
+{#</div>#}
