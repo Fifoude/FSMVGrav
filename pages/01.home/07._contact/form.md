@@ -1,5 +1,7 @@
 ---
 title: Contact
+content:
+    items: '@self.modular'
 process:
     twig: true
 cache_enable: false
