@@ -9,31 +9,31 @@ form:
     name: contact
     fields:
         name:
-            label: Name
-            placeholder: 'Enter your name'
+            label: Nom
+            placeholder: 'Entrer votre nom'
             autocomplete: 'on'
             type: text
             validate:
                 required: true
         email:
             label: Email
-            placeholder: 'Enter your email address'
+            placeholder: 'Entrer votre adresse email'
             type: email
             validate:
                 required: true
         message:
             label: Message
-            placeholder: 'Enter your message'
+            placeholder: 'Entrer votre message'
             type: textarea
             validate:
                 required: true
     buttons:
         submit:
             type: submit
-            value: Submit
+            value: Soumettre
         reset:
             type: reset
-            value: Reset
+            value: Réinitialiser
     process:
         save:
             fileprefix: contact-
