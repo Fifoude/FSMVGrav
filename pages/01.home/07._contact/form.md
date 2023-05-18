@@ -30,7 +30,7 @@ form:
         captcha:
             type: turnstile
             theme: light
-buttons:
+    buttons:
         submit:
             type: submit
             value: Soumettre
