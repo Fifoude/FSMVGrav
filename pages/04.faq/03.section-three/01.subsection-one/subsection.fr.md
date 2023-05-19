@@ -1,9 +1,15 @@
 ---
-title: 'Subsection One'
+title: 'Avant tout, devenir associé'
 taxonomy:
     filter:
         - view1
         - view2
 ---
 
-Aenean maximus placerat mi. Proin a porttitor leo, quis commodo ex. Praesent sit amet neque turpis. Sed fermentum, massa et iaculis vehicula, ligula ipsum tempus diam, ut placerat ligula nisi sed arcu. Nulla dictum sagittis enim sed hendrerit. Nunc eget vestibulum nisl. Integer at ex quis nulla lacinia vulputate a vel neque. Nam elementum id justo vel scelerisque. Fusce finibus erat at purus tincidunt aliquet. Mauris molestie maximus pellentesque. Sed finibus mattis turpis, quis fringilla mi varius vel. Morbi dictum, magna et sollicitudin dignissim, enim libero varius sapien, sit amet sagittis mi quam nec ligula. Proin consectetur nec sapien ac tincidunt. Aliquam faucibus leo a diam ultricies, eu luctus felis consectetur. Ut malesuada turpis id purus viverra, faucibus tempus augue placerat.
+Avant tout, il faut être associé des Fermes Solaires du Mont-Valérien. C’est une garantie pour la communauté que nous partageons les mêmes valeurs et les mêmes objectifs. Lisez nos statuts !
+
+Les Fermes Solaires du Mont-Valérien (FSMV) ont pour objectif la production locale d’électricité photovoltaïque sur les communes des territoires de Paris-Ouest La Défense et des Boucles de Seine. Elles proposent l’autoconsommation collective : partage de l’énergie entre voisins d’un même quartier grâce à des panneaux photovoltaïques installés à proximité.
+
+Découvrez à travers ce guide comment vous pouvez faire partie de notre Communauté Énergétique Citoyenne (CEC) et devenir acteur de la transition écologique tout en bénéficiant des avantages de l’ACC (AutoConsommation Collective).
+
+Nous tenons à préciser que nous sommes des citoyens bénévoles et que chacun apporte du sien à une aventure excitante ne possédant aucune structure d’une entreprise classique mais la volonté est forte pour proposer des solutions originales face au dérèglement climatique. Pour devenir Associé: https://fsmv.fr/associe
