@@ -1,1 +1,7 @@
-{  }
+cache-clear:
+  state: success
+  last-run: 1684458001
+cache-purge:
+  state: failure
+  last-run: 1684461601
+  error: 'Unknown error'
