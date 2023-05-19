@@ -25,12 +25,17 @@ Il n’y a pas d’obligation de vendre ou d’acheter des kWh en euros1 ni d'é
 1 les producteurs/consommateurs auront toujours les taxes d’acheminement à s’acquitter (même pour 2 km :-))
 
 ![dessinfinalv2](dessinfinalv2.jpg "dessinfinalv2")
-        aller sur l’onglet “fichiers joints”
+       
+       
+  ![drawing-3-1659098662](drawing-3-1659098662.png "drawing-3-1659098662") cliquer sur ton nom,
+   
+   ![drawing-3-1659358840](drawing-3-1659358840.png "drawing-3-1659358840")
+       aller sur l’onglet “fichiers joints”
         télécharger le fichier “consentement Enedis” qui devrait être disponible et y renseigner le numéro du PDL que tu trouveras sur ta facture d’énergie, signer le document et le téléverser dans le même onglet à l’emplacement “Ajouter un nouveau document fichier/document”
         tu procéderas à la même opération pour signer ta "lettre d'intention" afin de formaliser ton engagement,
         téléverser également ta facture d’énergie,
 
-        si tu es déjà producteur, il faut également téléverser le document signé suivant que tu dois avoir en ta possession :
+![drawing-3-1659098743](drawing-3-1659098743.png "drawing-3-1659098743") si tu es déjà producteur, il faut également téléverser le document signé suivant que tu dois avoir en ta possession :
             le Contrat d’Accès et d’Exploitation,
 
 envoie-nous un mail (fsmvidf@gmail.com) pour nous prévenir que tu es prêt !
