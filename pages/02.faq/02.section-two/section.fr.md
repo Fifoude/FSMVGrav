@@ -8,7 +8,7 @@ hide_page_title: false
 Quelques sites pour expliquer le photovoltaïque:
 
 - Le site du CNRS pour expliquer le photovoltaïque: https://solairepv.fr/
-- Le site de l'association HESPUL soutenus par l'ADEME: https://www.photovoltaique.info
+- Le site de l'association HESPUL soutenu par l'ADEME: https://www.photovoltaique.info
 
 ###Les différentes phases d'études
 
