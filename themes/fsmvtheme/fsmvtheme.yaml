@@ -5,6 +5,7 @@ streams:
      prefixes:
        '':
          - 'user://themes/fsmvtheme'
+         - 'user://themes/quark-open-publishing'
          - 'user://themes/quark'
 
 enabled: true

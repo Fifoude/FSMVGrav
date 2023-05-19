@@ -3,7 +3,7 @@ namespace Grav\Theme;
 
 use Grav\Common\Theme;
 
-class Fsmvtheme extends Quark
+class Fsmvtheme extends QuarkOpenPublishing
 {
     // Access plugin events in this class
 }
