@@ -7,6 +7,7 @@ media_order: panneaux-solaires-dans-pre-1286-146.webp
 ---
 
 ![panneaux-solaires-dans-pre-1286-146](panneaux-solaires-dans-pre-1286-146.webp "panneaux-solaires-dans-pre-1286-146")
+
 Quelques sites pour expliquer le photovoltaïque:
 
 - Le site du CNRS pour expliquer le photovoltaïque: https://solairepv.fr/
