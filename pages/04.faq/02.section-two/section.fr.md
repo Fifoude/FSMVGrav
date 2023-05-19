@@ -1,8 +1,8 @@
 ---
-title: 'Le photovoltaïque'
-taxonomy:
-    filter: [view2]
+title: '2. Le photovoltaïque'
 child_type: subsection
+hide_git_sync_repo_link: false
+hide_page_title: false
 ---
 
 Quelques sites pour expliquer le photovoltaïque:
