@@ -1,10 +1,11 @@
 ---
 title: 'Tu veux devenir producteur...'
-taxonomy:
-    filter:
-        - view1
-        - view2
+media_order: 'gif-producteur.gif,dessinpigeonv2.jpg'
+hide_git_sync_repo_link: false
+hide_page_title: false
 ---
+
+![gif-producteur](gif-producteur.gif "gif-producteur")
 
 Si tu maîtrises pleinement la disponibilité de ta toiture, les FSMV bénéficient de subventions allouées par la Région Île-de-France dont tu pourras également profiter, te permettant de pouvoir auto-consommer ta production et de revendre le surplus de production au sein de la communauté énergétique des FSMV.
 
@@ -15,6 +16,8 @@ A ce jour nous n’avons ni la trésorerie ni assez de bénévoles pour gérer l
 Nous revisiterons éventuellement cette stratégie pour les Commissions Paritaires futures.
 
 La formalisation de toutes les conditions est disponible dans le contrat d’usage type.
+
+![dessinpigeonv2](dessinpigeonv2.jpg "dessinpigeonv2")
 
 …la suite :
 
