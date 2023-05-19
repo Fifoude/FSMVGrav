@@ -4,53 +4,87 @@ menu: Features
 class: small
 features:
     -
-        header: 'Markdown Syntax'
         icon: 'fa fa-text-height'
+        header: 'Markdown Syntax'
+        text: null
+        url: null
     -
-        header: 'Twig Templating'
         icon: 'fa fa-code'
+        header: 'Twig Templating'
+        text: null
+        url: null
     -
-        header: 'Smart Caching'
         icon: 'fa fa-rocket'
+        header: 'Smart Caching'
+        text: null
+        url: null
     -
-        header: 'Flexible Taxonomies'
         icon: 'fa fa-tags'
+        header: 'Flexible Taxonomies'
+        text: null
+        url: null
     -
-        header: 'Simple Install'
         icon: 'fa fa-cloud-download'
+        header: 'Simple Install'
+        text: null
+        url: null
     -
-        header: 'Powerful Plugins'
         icon: 'fa fa-cogs'
+        header: 'Powerful Plugins'
+        text: null
+        url: null
     -
-        header: 'Intuitive UI'
         icon: 'fa fa-dashboard'
+        header: 'Intuitive UI'
+        text: null
+        url: null
     -
-        header: File-Based
         icon: 'fa fa-file-text'
+        header: File-Based
+        text: null
+        url: null
     -
-        header: Multi-Language
         icon: 'fa fa-language'
+        header: Multi-Language
+        text: null
+        url: null
     -
-        header: 'Users & Roles'
         icon: 'fa fa-users'
+        header: 'Users & Roles'
+        text: null
+        url: null
     -
-        header: 'Image Processing'
         icon: 'fa fa-image'
+        header: 'Image Processing'
+        text: null
+        url: null
     -
-        header: Documentation
         icon: 'fa fa-bookmark'
+        header: Documentation
+        text: null
+        url: null
     -
-        header: 'On Github'
         icon: 'fa fa-github'
+        header: 'On Github'
+        text: null
+        url: null
     -
-        header: 'Responsive Design'
         icon: 'fa fa-html5'
+        header: 'Responsive Design'
+        text: null
+        url: null
     -
-        header: 'CLI Power'
         icon: 'fa fa-terminal'
+        header: 'CLI Power'
+        text: null
+        url: null
     -
-        header: Awesomazing
         icon: 'fa fa-heart-o'
+        header: Awesomazing
+        text: null
+        url: null
+published: false
+hide_git_sync_repo_link: false
 ---
 
 # Stuffed Full of Features
