@@ -8,4 +8,4 @@ media_order: test4.png
 
 Comment devenir producteur ou consommateur de la communauté énergétique des FSMV ?
 
-![test4](test4.png "test4")
+![test4](test4.png "Le parcours de l'ACC")
