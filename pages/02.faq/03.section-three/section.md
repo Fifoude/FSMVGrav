@@ -30,6 +30,6 @@ Découvrez à travers ce guide comment vous pouvez faire partie de notre **C**om
 ![dessindupontv5](dessindupontv5.jpg "...pour nos enfants...")
 
 Nous tenons à préciser que nous sommes des citoyens bénévoles et que chacun apporte du sien à une aventure excitante ne possédant aucune structure d’une entreprise classique mais la volonté est forte pour proposer des solutions originales face au dérèglement climatique.
-> Pour devenir Associé: [https://www.fsmv.fr/associe](https://www.fsmv.fr/associe)
+> **Pour devenir Associé**: [https://www.fsmv.fr/associe](https://www.fsmv.fr/associe)
 
 #### Confirmer ton éligibilité
