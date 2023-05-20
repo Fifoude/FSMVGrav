@@ -15,7 +15,7 @@ ou en tant que:
     Si tu n'as pas encore de panneaux solaires, nous pouvons t'aider pour l'installation (études, subventions, prestataire...). Les détails sont dans la [section suivante](https://cloud.fsmv.fr/faq/section-three/subsection-three).
 
 #### Et le rôle des FSMV alors ?
-Conformément au code de l’énergie, les FSMV est la Personne Morale Organisatrice de la bonne affectation des consommateurs aux producteurs et vice-versa (le “matchmaker” de l’énergie). A ce titre, elle est dans l’obligation de fournir à Enedis les informations nécessaires pour garantir l'équilibre du réseau électrique. La communauté est essentiellement régie par la convention Enedis.
+Conformément au code de l’énergie, les FSMV est la Personne Morale Organisatrice de la bonne affectation des consommateurs aux producteurs et vice-versa (le “matchmaker” de l’énergie). A ce titre, elle est dans l’obligation de fournir à Enedis les informations nécessaires pour garantir l'équilibre du réseau électrique. La communauté est essentiellement régie par [la convention Enedis](https://www.enedis.fr/sites/default/files/documents/pdf/Enedis-FOR-CF_01E.pdf).
 
 Il n’y a pas d’obligation de vendre ou d’acheter des kWh en euros1 ni d'établir un contrat d’achat entre un producteur et un consommateur. Cependant les FSMV mettent à disposition de ses associés une facture incluant les conditions générales de vente. Cette facture peut être éditée par les FSMV pour le compte du producteur.
 
