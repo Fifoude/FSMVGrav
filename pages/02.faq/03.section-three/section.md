@@ -6,7 +6,7 @@ hide_page_title: false
 media_order: 'test4.png,dessindupontv5.jpg'
 ---
 
-Comment devenir producteur ou consommateur de la communauté énergétique des FSMV ?
+Dans le cadre de l'Autoconsommation Collective, tu as plusieurs façons de t'impliquer dans la communauté des Fermes Solaires du Mont-Valérien en tant queComment devenir producteur ou consommateur de la communauté énergétique des FSMV ?
 
 ![test4](test4.png "Le parcours de l'ACC")
 ####Avant tout, devenir associé !
