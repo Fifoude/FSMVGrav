@@ -11,7 +11,7 @@ Les Fermes Solaires du Mont-Valérien (FSMV) ont pour objectif la production loc
 
 Découvrez à travers ce guide comment vous pouvez faire partie de notre **C**ommunauté **É**nergétique **C**itoyenne (CEC) et devenir acteur de la transition écologique tout en bénéficiant des avantages de l’ACC (**A**uto**C**onsommation **C**ollective).
 
-![dessindupontv5](dessindupontv5.jpg "dessindupontv5")
+![dessindupontv5](dessindupontv5.jpg "...pour nos enfants...")
 
 Nous tenons à préciser que nous sommes des citoyens bénévoles et que chacun apporte du sien à une aventure excitante ne possédant aucune structure d’une entreprise classique mais la volonté est forte pour proposer des solutions originales face au dérèglement climatique. Pour devenir Associé: https://fsmv.fr/associe
 
