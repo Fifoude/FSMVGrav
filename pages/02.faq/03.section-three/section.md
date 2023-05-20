@@ -34,6 +34,7 @@ Nous tenons à préciser que nous sommes des citoyens bénévoles et que chacun 
 
 ### Rejoindre la communauté énergétique
 ![gif-cec](gif-cec.gif "Rejoindre la communauté énergétique...")
+
 Afin de confirmer ton éligibilité à rejoindre la communauté aussi bien en tant que consommateur ou producteur tu dois t'assurer que:
 * tu ne sois pas déjà impliqué dans une autre communauté ACC,
 * tu sois bien équipé d’un compteur Linky (le remplacement d’un ancien modèle est gratuit),
