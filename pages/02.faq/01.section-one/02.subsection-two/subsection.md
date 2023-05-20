@@ -1,8 +1,7 @@
 ---
 title: 'Informations concernant l’actionnariat'
-taxonomy:
-    filter:
-        - view1
+hide_git_sync_repo_link: false
+hide_page_title: false
 ---
 
 Avertissement : seuls les [statuts](https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Wm-hCciqrirz9Dr5PCAuVlpkT0VyI1YP%2Fview%3Fusp%3Dsharing&sa=D&ust=1595158470555000&usg=AFQjCNHFzhPONnIAwDtlt12XGmzB6PtqmQ) des Fermes Solaires du Mont-Valérien font foi
@@ -53,4 +52,4 @@ Le capital investi, tout comme la rentabilité escomptée, ne sont pas garantis.
 
 La responsabilité des associés (c’est-à-dire le risque pris) est limitée à leur apport.
 
-[Je souscris]({$home}/associe)
+[Je souscris](https://www.fsmv.fr/associe)
