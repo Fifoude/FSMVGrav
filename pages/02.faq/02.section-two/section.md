@@ -11,7 +11,7 @@ media_order: panneaux-solaires-dans-pre-1286-146.webp
 Quelques sites pour expliquer le photovoltaïque:
 
 - Le site du CNRS pour expliquer le photovoltaïque: [https://solairepv.fr/](https://solairepv.fr/)
-- Le site de l'association HESPUL soutenu par l'ADEME: https://www.photovoltaique.info
+- Le site de l'association HESPUL soutenu par l'ADEME: [https://www.photovoltaique.info](https://www.photovoltaique.info)
 
 ###Les différentes phases d'études
 
