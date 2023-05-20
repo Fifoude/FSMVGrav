@@ -44,6 +44,6 @@ Afin de confirmer ton éligibilité à rejoindre la communauté aussi bien en ta
 Pour confirmer ton engagement, nous te demanderons de signer:
 > * le consentement Enedis,
 > * une lettre d'intention,
-> * un contrat d'usage si tu désires devenir nouveau producteur.
+> * un contrat d'usage si tu désires devenir nouveau producteur subventionné par les FSMV.
 
 N'hésites pas à nous contacter pour de plus amples renseignements.
