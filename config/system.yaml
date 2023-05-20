@@ -191,7 +191,7 @@ media:
 session:
   enabled: true
   initialize: true
-  timeout: 1800
+  timeout: 10800
   name: grav-site
   uniqueness: path
   secure: false
