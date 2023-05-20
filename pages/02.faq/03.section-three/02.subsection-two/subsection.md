@@ -9,10 +9,8 @@ hide_page_title: false
 
 Tu as plusieurs façons de t'impliquer dans la communauté des Fermes Solaires du Mont-Valérien en tant que:
 * **consommateur** avec l’avantage de profiter d’une énergie renouvelable produite à moins de 2 km de chez toi, dont le prix est fixe pour au moins 1 an et inférieur ou égal au prix que tu payes actuellement,
-
 ou en tant que:
-
-    producteur (tu as déjà des panneaux solaires et produit de l'électricité) tu peux revendre ton excédent de production à des consommateurs locaux et à un prix généralement supérieur qu’à des fournisseurs de rachat de surplus.
+* **producteur** (tu as déjà des panneaux solaires et produit de l'électricité) tu peux revendre ton excédent de production à des consommateurs locaux et à un prix généralement supérieur qu’à des fournisseurs de rachat de surplus.
     Si tu n'as pas encore de panneaux solaires, nous pouvons t'aider pour l'installation (études, subventions, prestataire...). Les détails sont dans la page suivante.
 
 Et le rôle des FSMV alors ?
