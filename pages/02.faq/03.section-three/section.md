@@ -9,8 +9,8 @@ media_order: 'test4.png,dessindupontv5.jpg,dessinfinalv2.jpg,gif-cec.gif'
 ![test4](test4.png "Le parcours de l'ACC")
 ### Présentation
 Dans le cadre de l'Autoconsommation Collective, tu as plusieurs façons de t'impliquer dans la communauté énergétique des Fermes Solaires du Mont-Valérien:
-* consommateur avec l’avantage de profiter d’une énergie renouvelable produite à moins de 2 km de chez toi,
-* producteur en fournissant ton excédent de production aux consommateurs à des conditions très favorables.
+* **consommateur** avec l’avantage de profiter d’une énergie renouvelable produite à moins de 2 km de chez toi,
+* **producteur** en fournissant ton excédent de production aux consommateurs à des conditions très favorables.
 
 ##### Et le rôle des FSMV alors ?
 Conformément au code de l’énergie, les FSMV est la Personne Morale Organisatrice de la bonne affectation des consommateurs aux producteurs et vice-versa (le “matchmaker” de l’énergie). A ce titre, elle est dans l’obligation de fournir à Enedis les informations nécessaires pour garantir l'équilibre du réseau électrique. La communauté est essentiellement régie par [la convention Enedis](https://www.enedis.fr/sites/default/files/documents/pdf/Enedis-FOR-CF_01E.pdf).
@@ -36,8 +36,8 @@ Nous tenons à préciser que nous sommes des citoyens bénévoles et que chacun 
 ![gif-cec](gif-cec.gif "Rejoindre la communauté énergétique...")
 
 Afin de confirmer ton éligibilité à rejoindre la communauté aussi bien en tant que consommateur ou producteur tu dois t'assurer que:
-* tu ne sois pas déjà impliqué dans une autre communauté ACC,
-* tu sois bien équipé d’un compteur Linky (le remplacement d’un ancien modèle est gratuit),
-* tu as ta dernière facture d'énergie à disposition,
-* tu possèdes le Contrat d’Accès et d’Exploitation si tu possèdes déjà une installation photovoltaïque.
+> * tu ne sois pas déjà impliqué dans une autre communauté ACC,
+> * tu sois bien équipé d’un compteur Linky (le remplacement d’un ancien modèle est gratuit),
+> * tu as ta dernière facture d'énergie à disposition,
+> * tu possèdes le Contrat d’Accès et d’Exploitation si tu possèdes déjà une installation photovoltaïque.
 
