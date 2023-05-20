@@ -6,7 +6,7 @@ hide_page_title: false
 media_order: panneaux-solaires-dans-pre-1286-146.webp
 ---
 
-![panneaux-solaires-dans-pre-1286-146](panneaux-solaires-dans-pre-1286-146.webp "panneaux-solaires-dans-pre-1286-146")
+![panneaux-solaires-dans-pre-1286-146](panneaux-solaires-dans-pre-1286-146.webp "Panneaux solaires dans le pré")
 
 Quelques sites pour expliquer le photovoltaïque:
 
