@@ -7,10 +7,9 @@ taxonomy:
 
 Avertissement : seuls les [statuts](https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Wm-hCciqrirz9Dr5PCAuVlpkT0VyI1YP%2Fview%3Fusp%3Dsharing&sa=D&ust=1595158470555000&usg=AFQjCNHFzhPONnIAwDtlt12XGmzB6PtqmQ) des Fermes Solaires du Mont-Valérien font foi
 
-Je souscris
 ####1 - Comment s'inscrivent les FSMV dans l'actionnariat ?
 
-Les Fermes Solaires du Mont-Valérien (FSMV) sont une Société par Actions Simplifiée à capital variable et à gouvernance coopérative. Sa gouvernance est établie sur le principe coopératif, soit une personne = une voix. Elle est reconnue comme faisant partie de l’Économie Sociale et Solidaire.
+Les Fermes Solaires du Mont-Valérien (FSMV) sont une Société par Actions Simplifiée à capital variable et à gouvernance coopérative. Sa gouvernance est établie sur le principe coopératif, soit **une personne = une voix**. Elle est reconnue comme faisant partie de l’Économie Sociale et Solidaire.
 
 Les FSMV s’inscrivent dans le mouvement de l’énergie citoyenne et partage les valeurs portées par la Charte d’Énergie Partagée et la démarche négaWatt. C’est une structure humaine, technique et commerciale qui porte la mobilisation citoyenne pour une transition énergétique.
 ####2 - Qu’est-ce qu’une action FSMV ?
@@ -41,7 +40,7 @@ Le cas échéant (cf. article 25 des statuts des FSMV), une rémunération peut 
 Enfin, la souscription au capital des FSMV ne donne pas droit à une réduction d’impôts.
 ####7 - Quel est le niveau de participation à la gouvernance de chaque associé ?
 
-Quel que soit le montant du capital apporté, chaque associé (e) dispose d’une voix au sein de la société en application du principe coopératif «une personne = une voix». La propriété d’une action emporte de plein droit l’adhésion aux statuts et aux décisions de l’Assemblée Générale.
+Quel que soit le montant du capital apporté, chaque associé (e) dispose d’une voix au sein de la société en application du principe coopératif «**une personne = une voix**». La propriété d’une action emporte de plein droit l’adhésion aux statuts et aux décisions de l’Assemblée Générale.
 
 Chaque année, tous les associés sont convoqués à l’Assemblée Générale et peuvent donc ainsi participer à ses décisions. Ils peuvent aussi élire leurs représentants au Conseil de gestion ou y présenter leur candidature.
 ####8 - Quel risque d’acquérir des actions des Fermes Solaires du Mont-Valérien ?
@@ -54,4 +53,4 @@ Le capital investi, tout comme la rentabilité escomptée, ne sont pas garantis.
 
 La responsabilité des associés (c’est-à-dire le risque pris) est limitée à leur apport.
 
-Je souscris
+[Je souscris](#associe)
