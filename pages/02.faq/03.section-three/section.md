@@ -33,3 +33,4 @@ Nous tenons à préciser que nous sommes des citoyens bénévoles et que chacun 
 > **Pour devenir Associé**: [https://www.fsmv.fr/associe](https://www.fsmv.fr/associe)
 
 ### Rejoindre la communauté énergétique
+![gif-cec](gif-cec.gif "Rejoindre la communauté énergétique...")
