@@ -3,7 +3,7 @@ title: '3. Le parcours ACC'
 child_type: subsection
 hide_git_sync_repo_link: false
 hide_page_title: false
-media_order: 'test4.png,dessindupontv5.jpg'
+media_order: 'test4.png,dessindupontv5.jpg,dessinfinalv2.jpg,gif-cec.gif'
 ---
 
 ![test4](test4.png "Le parcours de l'ACC")
@@ -32,4 +32,4 @@ Découvrez à travers ce guide comment vous pouvez faire partie de notre **C**om
 Nous tenons à préciser que nous sommes des citoyens bénévoles et que chacun apporte du sien à une aventure excitante ne possédant aucune structure d’une entreprise classique mais la volonté est forte pour proposer des solutions originales face au dérèglement climatique.
 > **Pour devenir Associé**: [https://www.fsmv.fr/associe](https://www.fsmv.fr/associe)
 
-#### Confirmer ton éligibilité
+### Rejoindre la communauté énergétique
