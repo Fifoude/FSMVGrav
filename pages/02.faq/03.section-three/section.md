@@ -7,7 +7,7 @@ media_order: 'test4.png,dessindupontv5.jpg'
 ---
 
 ![test4](test4.png "Le parcours de l'ACC")
-
+### Présentation
 Dans le cadre de l'Autoconsommation Collective, tu as plusieurs façons de t'impliquer dans la communauté énergétique des Fermes Solaires du Mont-Valérien:
 * consommateur avec l’avantage de profiter d’une énergie renouvelable produite à moins de 2 km de chez toi,
 * producteur en fournissant ton excédent de production aux consommateurs à des conditions très favorables.
@@ -19,7 +19,7 @@ Il n’y a pas d’obligation de vendre ou d’acheter des kWh en euros (il y au
 
 ![dessinfinalv2](dessinfinalv2.jpg "Echangeons...")
 
-#### Avant tout, devenir associé !
+### Avant tout, devenir associé !
 
 Avant tout, il faut être associé des Fermes Solaires du Mont-Valérien. C’est une garantie pour la communauté que nous partageons les mêmes valeurs et les mêmes objectifs. Lisez nos [statuts](https://drive.google.com/file/d/1Wm-hCciqrirz9Dr5PCAuVlpkT0VyI1YP/view?usp=sharing) et notamment le préambule!
 
