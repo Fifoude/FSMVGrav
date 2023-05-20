@@ -12,7 +12,7 @@ Tu as plusieurs façons de t'impliquer dans la communauté des Fermes Solaires d
 
 ou en tant que:
 * **producteur** (tu as déjà des panneaux solaires et produit de l'électricité) tu peux revendre ton excédent de production à des consommateurs locaux et à un prix généralement supérieur qu’à des fournisseurs de rachat de surplus.
-    Si tu n'as pas encore de panneaux solaires, nous pouvons t'aider pour l'installation (études, subventions, prestataire...). Les détails sont dans la page suivante.
+    Si tu n'as pas encore de panneaux solaires, nous pouvons t'aider pour l'installation (études, subventions, prestataire...). Les détails sont dans la [section suivante](#subsection-three).
 
 Et le rôle des FSMV alors ?
 
