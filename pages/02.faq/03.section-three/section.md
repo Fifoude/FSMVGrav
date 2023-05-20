@@ -41,8 +41,9 @@ Afin de confirmer ton éligibilité à rejoindre la communauté aussi bien en ta
 > * tu ais ta dernière facture d'énergie à disposition,
 > * tu détiennes le Contrat d’Accès et d’Exploitation si tu possèdes déjà une installation photovoltaïque.
 
-En contrepartie nous te demanderons de signer:
+Pour confirmer ton engagement, nous te demanderons de signer:
 > * le consentement Enedis,
 > * une lettre d'intention,
 > * un contrat d'usage si tu désires devenir nouveau producteur.
+
 N'hésites pas à nous contacter pour de plus amples renseignements.
