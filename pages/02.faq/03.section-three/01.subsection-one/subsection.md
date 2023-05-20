@@ -1,5 +1,5 @@
 ---
-title: 'Avant tout, devenir associé'
+title: 'Avant tout, devenir associé !'
 media_order: 'dessindupontv5.jpg,drawing-5-1659100404.png'
 hide_git_sync_repo_link: false
 hide_page_title: false
