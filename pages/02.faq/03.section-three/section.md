@@ -12,7 +12,7 @@ Dans le cadre de l'Autoconsommation Collective, tu as plusieurs façons de t'imp
 * consommateur avec l’avantage de profiter d’une énergie renouvelable produite à moins de 2 km de chez toi,
 * producteur en fournissant ton excédent de production aux consommateurs à des conditions très favorables.
 
-#### Et le rôle des FSMV alors ?
+##### Et le rôle des FSMV alors ?
 Conformément au code de l’énergie, les FSMV est la Personne Morale Organisatrice de la bonne affectation des consommateurs aux producteurs et vice-versa (le “matchmaker” de l’énergie). A ce titre, elle est dans l’obligation de fournir à Enedis les informations nécessaires pour garantir l'équilibre du réseau électrique. La communauté est essentiellement régie par [la convention Enedis](https://www.enedis.fr/sites/default/files/documents/pdf/Enedis-FOR-CF_01E.pdf).
 
 Il n’y a pas d’obligation de vendre ou d’acheter des kWh en euros (il y aura toujours les taxes d’acheminement à s’acquitter) ni d'établir un contrat d’achat entre un producteur et un consommateur. Cependant les FSMV mettent à disposition de ses associés [une facture incluant les conditions générales de vente](https://docs.google.com/document/d/1vWNXZJmdZUROnw0flykCL2obWObmSA7i5DAaSXv4Xds/edit?usp=sharing). Cette facture peut être éditée par les FSMV pour le compte du producteur.
