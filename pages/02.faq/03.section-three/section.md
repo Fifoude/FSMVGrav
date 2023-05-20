@@ -19,7 +19,7 @@ Il n’y a pas d’obligation de vendre ou d’acheter des kWh en euros (il y au
 
 ![dessinfinalv2](dessinfinalv2.jpg "Echangeons...")
 
-####Avant tout, devenir associé !
+#### Avant tout, devenir associé !
 
 Avant tout, il faut être associé des Fermes Solaires du Mont-Valérien. C’est une garantie pour la communauté que nous partageons les mêmes valeurs et les mêmes objectifs. Lisez nos [statuts](https://drive.google.com/file/d/1Wm-hCciqrirz9Dr5PCAuVlpkT0VyI1YP/view?usp=sharing) et notamment le préambule!
 
@@ -32,3 +32,4 @@ Découvrez à travers ce guide comment vous pouvez faire partie de notre **C**om
 Nous tenons à préciser que nous sommes des citoyens bénévoles et que chacun apporte du sien à une aventure excitante ne possédant aucune structure d’une entreprise classique mais la volonté est forte pour proposer des solutions originales face au dérèglement climatique.
 > Pour devenir Associé: [https://www.fsmv.fr/associe](https://www.fsmv.fr/associe)
 
+#### Confirmer ton éligibilité
