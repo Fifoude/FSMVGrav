@@ -11,7 +11,7 @@ Comment devenir producteur ou consommateur de la communauté énergétique des F
 ![test4](test4.png "Le parcours de l'ACC")
 ####Avant tout, devenir associé !
 
-Avant tout, il faut être associé des Fermes Solaires du Mont-Valérien. C’est une garantie pour la communauté que nous partageons les mêmes valeurs et les mêmes objectifs. Lisez nos [statuts](https://drive.google.com/file/d/1Wm-hCciqrirz9Dr5PCAuVlpkT0VyI1YP/view?usp=sharing) !
+Avant tout, il faut être associé des Fermes Solaires du Mont-Valérien. C’est une garantie pour la communauté que nous partageons les mêmes valeurs et les mêmes objectifs. Lisez nos [statuts](https://drive.google.com/file/d/1Wm-hCciqrirz9Dr5PCAuVlpkT0VyI1YP/view?usp=sharing) et notamment le préambule!
 
 Les Fermes Solaires du Mont-Valérien (FSMV) ont pour objectif la production locale d’électricité photovoltaïque sur les communes des territoires de Paris-Ouest La Défense et des Boucles de Seine. Elles proposent l’autoconsommation collective : partage de l’énergie entre voisins d’un même quartier grâce à des panneaux photovoltaïques installés à proximité.
 
