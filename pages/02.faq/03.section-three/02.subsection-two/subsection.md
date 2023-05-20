@@ -8,8 +8,7 @@ hide_page_title: false
 ![gif-cec](gif-cec.gif "gif-cec")
 
 Tu as plusieurs façons de t'impliquer dans la communauté des Fermes Solaires du Mont-Valérien en tant que:
-
-    consommateur avec l’avantage de profiter d’une énergie renouvelable produite à moins de 2 km de chez toi, dont le prix est fixe pour au moins 1 an et inférieur ou égal au prix que tu payes actuellement,
+* **consommateur** avec l’avantage de profiter d’une énergie renouvelable produite à moins de 2 km de chez toi, dont le prix est fixe pour au moins 1 an et inférieur ou égal au prix que tu payes actuellement,
 
 ou en tant que:
 
