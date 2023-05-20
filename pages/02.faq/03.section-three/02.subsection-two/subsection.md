@@ -14,7 +14,7 @@ ou en tant que:
 * **producteur** (tu as déjà des panneaux solaires et produit de l'électricité) tu peux revendre ton excédent de production à des consommateurs locaux et à un prix généralement supérieur qu’à des fournisseurs de rachat de surplus.
     Si tu n'as pas encore de panneaux solaires, nous pouvons t'aider pour l'installation (études, subventions, prestataire...). Les détails sont dans la [section suivante](https://cloud.fsmv.fr/faq/section-three/subsection-three).
 
-Et le rôle des FSMV alors ?
+#### Et le rôle des FSMV alors ?
 
 Conformément au code de l’énergie, les FSMV est la Personne Morale Organisatrice de la bonne affectation des consommateurs aux producteurs et vice-versa (le “matchmaker” de l’énergie). A ce titre, elle est dans l’obligation de fournir à Enedis les informations nécessaires pour garantir l'équilibre du réseau électrique. La communauté est essentiellement régie par la convention Enedis.
 
