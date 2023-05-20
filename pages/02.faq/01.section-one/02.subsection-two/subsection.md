@@ -1,10 +1,11 @@
 ---
 title: 'Informations concernant l’actionnariat'
 taxonomy:
-    filter: [view1]
+    filter:
+        - view1
 ---
 
-Avertissement : seuls les statuts des Fermes Solaires du Mont-Valérien font foi
+Avertissement : seuls les [statuts](https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1Wm-hCciqrirz9Dr5PCAuVlpkT0VyI1YP%2Fview%3Fusp%3Dsharing&sa=D&ust=1595158470555000&usg=AFQjCNHFzhPONnIAwDtlt12XGmzB6PtqmQ) des Fermes Solaires du Mont-Valérien font foi
 
 Je souscris
 ####1 - Comment s'inscrivent les FSMV dans l'actionnariat ?
