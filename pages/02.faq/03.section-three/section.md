@@ -32,4 +32,3 @@ Découvrez à travers ce guide comment vous pouvez faire partie de notre **C**om
 Nous tenons à préciser que nous sommes des citoyens bénévoles et que chacun apporte du sien à une aventure excitante ne possédant aucune structure d’une entreprise classique mais la volonté est forte pour proposer des solutions originales face au dérèglement climatique.
 > Pour devenir Associé: [https://www.fsmv.fr/associe](https://www.fsmv.fr/associe)
 
-[h5p]<iframe src="https://h5p.org/h5p/embed/62954" width="1090" height="480" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Accordion"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>[/h5p]
