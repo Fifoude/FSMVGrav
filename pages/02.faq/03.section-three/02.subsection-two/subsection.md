@@ -19,9 +19,15 @@ Conformément au code de l’énergie, les FSMV est la Personne Morale Organisat
 
 Il n’y a pas d’obligation de vendre ou d’acheter des kWh en euros (il y aura toujours les taxes d’acheminement à s’acquitter) ni d'établir un contrat d’achat entre un producteur et un consommateur. Cependant les FSMV mettent à disposition de ses associés [une facture incluant les conditions générales de vente](https://docs.google.com/document/d/1vWNXZJmdZUROnw0flykCL2obWObmSA7i5DAaSXv4Xds/edit?usp=sharing). Cette facture peut être éditée par les FSMV pour le compte du producteur.
 
-![dessinfinalv2](dessinfinalv2.jpg "dessinfinalv2")
+![dessinfinalv2](dessinfinalv2.jpg "Echangeons...")
        
-       
+####Le parcours :
+Nous devons tester ton éligibilité et tu dois t’assurer que:
+* tu ne sois pas déjà impliqué dans une autre communauté ACC,
+* tu sois bien équipé d’un compteur Linky (le remplacement d’un ancien modèle est gratuit),
+* tu as ta dernière facture d'énergie à disposition !
+
+En allant sur le portail dédié des FSMV ([https://erp.fsmv.fr](https://erp.fsmv.fr)) avec tes codes d’accès communiqués une fois devenu associé des FSMV;       
   ![drawing-3-1659098662](drawing-3-1659098662.png "drawing-3-1659098662") cliquer sur ton nom,
    
    ![drawing-3-1659358840](drawing-3-1659358840.png "drawing-3-1659358840")
