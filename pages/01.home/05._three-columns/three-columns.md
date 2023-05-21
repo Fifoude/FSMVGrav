@@ -1,7 +1,7 @@
 ---
 title: '3 columns'
 process:
-    markdown: false
+    markdown: true
     twig: false
 ---
 
