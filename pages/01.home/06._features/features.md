@@ -7,13 +7,13 @@ media_order: 'idf.jpg,ademe.png,ep.png'
 features2:
     -
         image: ademe.png
-        text: 'Lorem ipsum dolor'
+        text: ''
     -
         image: idf.jpg
-        text: 'Lorem ipsum'
+        text: ''
     -
         image: ep.png
-        text: 'Lorem ipsum dolor'
+        text: ''
 
 hide_git_sync_repo_link: false
 ---
