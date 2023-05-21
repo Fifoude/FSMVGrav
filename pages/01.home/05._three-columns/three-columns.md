@@ -5,7 +5,7 @@ personen:
         name: 'Franz Gfeller'
         position: Webentwicklung
         email: gfeller@domain.ch
-        text: 'Franz ist verantwortlich für die Umsetzung von Webseiten und Erstellung von Produktkonfigurationen'
+        text: 'Franz ist '
         image:
             user/pages/01.home/05._three-columns/ademe.png:
                 name: ademe.png
@@ -16,7 +16,7 @@ personen:
         name: 'Seraf Senape'
         position: Geschäftsführer
         email: seraf@domain.ch
-        text: 'Seraf ist gelernter Schreiner-meister und hat die Firma im Jahr 2004 gegründet. Und besitzt nun schon 20 Jahre Berufs-erfahrung.'
+        text: 'Seraf ist '
         image:
             user/pages/01.home/05._three-columns/ep.png:
                 name: ep.png
@@ -27,7 +27,7 @@ personen:
         name: 'Hildegard Lattur'
         position: Marketing
         email: hildegard@domain.ch
-        text: 'Hildegard ist verantworlich für das Marketing von Akazie Holz. Und berät Sie auch gerne wenn sie Fragen bezüglich des Design haben.'
+        text: 'Hildegard ist '
         image:
             user/pages/01.home/05._three-columns/idf.jpg:
                 name: idf.jpg
