@@ -15,7 +15,7 @@ Dans le cadre de l'**A**uto**C**onsommation **C**ollective (ACC), tu as plusieur
 
 Il n’y a pas d’obligation d'établir une relation contractuelle entre un producteur et un consommateur ni de vendre ou d’acheter des kWh en euros[^1]. Cependant les FSMV mettent à disposition de ses associés [une facture incluant les conditions générales de vente](https://docs.google.com/document/d/1vWNXZJmdZUROnw0flykCL2obWObmSA7i5DAaSXv4Xds/edit?usp=sharing). Cette facture peut être éditée par les FSMV pour le compte du producteur.
 
-[^1]: il y aura toujours les taxes d’acheminement à s’acquitter
+[^1]: il y a les taxes d’acheminement à s’acquitter
 
 ![dessinfinalv2](dessinfinalv2.jpg "Echangeons...")
 
