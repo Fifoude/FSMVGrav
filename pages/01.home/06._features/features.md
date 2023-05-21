@@ -14,6 +14,7 @@ features2:
     -
         image: ep.png
         text: 'Lorem ipsum dolor'
+
 hide_git_sync_repo_link: false
 ---
 
