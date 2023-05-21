@@ -177,29 +177,6 @@ twig_first: true
 never_cache_twig: true
 ---
 
-<script>
-function addNumbers(num1, num2) {
-  return num1 + num2;
-}
-</script>
-<script>
-jQuery(function ($) {
-  var typeField = $('#typo');
-  var topicField = $('#support-topic');
-
-  // Hide the support topic field by default
-  topicField.hide();
-
-  // Show or hide the support topic field based on the value of the type field
-  typeField.on('change', function () {
-    if (typeField.val() === 'support') {
-      topicField.show();
-    } else {
-      topicField.hide();
-    }
-  });
-});
-</script>
 ## Devenir associé
 Si vous connaissez exactement vos motivations ainsi que les conséquences d’une souscription d’actions à une coopérative citoyenne alors vous pouvez continuer à remplir le formulaire ci-dessous. Sinon nous vous conseillons de consulter la [FAQ](https://faq.fsmv.fr/) des FSMV qui vous permettra de faire votre idée. Si vous avez encore des questions n’hésitez pas à nous envoyer un message!
 <script>let result = addNumbers(5, 3);
