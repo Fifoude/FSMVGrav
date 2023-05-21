@@ -4,7 +4,7 @@ menu: Features
 class: small
 features:
     -
-        image: '!(LOGO%20R%C3%A9gionIDF%202019.jpg)'
+        image: '!(idf.jpg)'
         header: 'Markdown Syntax'
         text: null
         url: null
