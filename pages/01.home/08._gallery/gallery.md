@@ -5,3 +5,5 @@ media_order: 'logo_Ademe.png,LOGO RégionIDF 2019.jpg,Logo-EP-IDF-RVB-fond blanc
 ---
 
 La Galerie
+
+![my image](ademe.png)
