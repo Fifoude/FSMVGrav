@@ -7,7 +7,7 @@ hide_page_title: false
 
 ![gif-producteur](gif-producteur.gif "gif-producteur")
 
-Si tu maîtrises pleinement la disponibilité de ta toiture, les FSMV bénéficient de subventions allouées par la Région Île-de-France dont tu pourras également profiter, te permettant de pouvoir auto-consommer ta production et de revendre le surplus de production au sein de la communauté énergétique des FSMV.
+Si tu maîtrises pleinement la disponibilité de ta toiture, les FSMV, au titre de tiers-investisseur, bénéficient de subventions allouées par la Région Île-de-France dont tu pourras également profiter, te permettant de pouvoir auto-consommer ta production et de revendre le surplus de production au sein de la communauté énergétique des FSMV.
 
 C’est une formidable opportunité de participer à la génération d’énergie renouvelable.
 
