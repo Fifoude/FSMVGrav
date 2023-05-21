@@ -33,7 +33,7 @@ features:
         header: 'Free / Open Source'
         text: 'Grav is an open source project, so you can spend your money on other stuff'
         url: null
-published: false
+published: true
 ---
 
 # Why Grav?
