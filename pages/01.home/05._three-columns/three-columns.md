@@ -1,8 +1,8 @@
 ---
 title: '3 columns'
 process:
-    markdown: true
-    twig: true
+    markdown: false
+    twig: false
 ---
 
         <div class="col-lg-4">
