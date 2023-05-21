@@ -11,7 +11,7 @@ personen:
             user/pages/01.home/05._three-columns/ademe.png:
                 name: ademe.png
                 type: image/png
-                size: 13883
+                size: 138
                 path: user/pages/01.home/05._three-columns/ademe.png
     -
         name: 'Seraf Senape'
@@ -22,7 +22,7 @@ personen:
             user/pages/01.home/05._three-columns/ep.png:
                 name: ep.png
                 type: image/png
-                size: 26116
+                size: 261
                 path: user/pages/01.home/05._three-columns/ep.png
     -
         name: 'Hildegard Lattur'
@@ -33,7 +33,7 @@ personen:
             user/pages/01.home/05._three-columns/idf.jpg:
                 name: idf.jpg
                 type: image/jpg
-                size: 13746
+                size: 137
                 path: user/pages/01.home/05._three-columns/idf.jpg
 page_container: container
 ---
