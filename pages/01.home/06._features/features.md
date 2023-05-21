@@ -1,5 +1,5 @@
 ---
-title: 'Sed magna consequat lorem curabitur tempus'
+title: 'Sed magna '
 body_classes: modular
 subtitle: 'Elit aliquam vulputate egestas euismod nunc semper vehicula lorem blandit'
 class: standard
