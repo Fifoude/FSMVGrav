@@ -1,7 +1,7 @@
 ---
 title: 'Sed magna '
 body_classes: modular
-subtitle: 'Elit aliquam vulputate egestas euismod nunc semper vehicula lorem blandit'
+subtitle: 'Elit aliquam vulputate'
 class: standard
 media_order: 'idf.jpg,ademe.png,ep.png'
 buttontext: 'Elevate my awareness'
