@@ -42,6 +42,6 @@ Afin de confirmer ton éligibilité à rejoindre la communauté aussi bien en ta
 Pour confirmer ton engagement, nous te demanderons de signer:
 > * le consentement Enedis permettant aux FSMV d'avoir accès à tes consommations,
 > * une lettre d'intention formalisant ton engagement vis-à-vis des FSMV,
-> * un contrat d'usage si tu veux devenir producteur avec une installation subventionnée par les FSMV.
+> * un contrat d'usage si tu veux devenir producteur avec une installation subventionnée par la région Île-de-France pour le compte des FSMV.
 
 N'hésites pas à nous [contacter](https://www.fsmv.fr/contact) pour de plus amples renseignements.
