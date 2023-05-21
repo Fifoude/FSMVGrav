@@ -52,4 +52,4 @@ Le capital investi, tout comme la rentabilité escomptée, ne sont pas garantis.
 
 La responsabilité des associés (c’est-à-dire le risque pris) est limitée à leur apport.
 
-> **[Je souscris](../../../associe)**
+> **[Je souscris]({{ home_url }}/associe)**

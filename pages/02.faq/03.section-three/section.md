@@ -30,7 +30,7 @@ Découvrez à travers ce guide comment vous pouvez faire partie de notre **C**om
 ![dessindupontv5](dessindupontv5.jpg "...pour nos enfants...")
 
 Nous tenons à préciser que nous sommes des citoyens bénévoles et que chacun apporte du sien à une aventure excitante ne possédant aucune structure d’une entreprise classique mais la volonté est forte pour proposer des solutions originales face au dérèglement climatique.
-> **Pour [devenir Associé](../../associe)**
+> **Pour [devenir Associé]({{ home_url }}/associe)**
 
 ### Rejoindre la communauté énergétique
 ![gif-cec](gif-cec.gif "Rejoindre la communauté énergétique...")
@@ -47,4 +47,4 @@ Pour confirmer ton engagement, nous te demanderons de signer:
 > * un contrat d'usage si tu veux devenir producteur avec une installation subventionnée par la région Île-de-France pour le compte des FSMV dans son rôle de tiers-investisseur.
 
 
-> **N'hésites pas à nous [contacter](../../contact) pour de plus amples renseignements.**
+> **N'hésites pas à nous [contacter]({{ home_url }}/#contact) pour de plus amples renseignements.**
