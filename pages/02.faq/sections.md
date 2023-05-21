@@ -17,4 +17,4 @@ content:
 child_type: section
 ---
 
-La FAQ des FSMV vous permet d'appréhender différents thèmes mais nous vous encourageons à nous [contacter] (../contact) pour discuter de votre cas particulier !
+La FAQ des FSMV vous permet d'appréhender différents thèmes mais nous vous encourageons à nous [contacter](../contact) pour discuter de votre cas particulier !
