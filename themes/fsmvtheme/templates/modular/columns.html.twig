@@ -1,3 +1,4 @@
+{% block content %}
     <table>
         <tr>
             {% for column in page.content|split('<hr />') %}
@@ -5,3 +6,4 @@
             {% endfor %}
         </tr>
     </table>
+{% endblock %}
