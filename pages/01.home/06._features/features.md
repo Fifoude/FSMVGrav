@@ -1,25 +1,19 @@
 ---
-title: 'Homepage Features'
-menu: Features
-class: small
-features:
+title: 'Sed magna consequat lorem curabitur tempus'
+body_classes: modular
+subtitle: 'Elit aliquam vulputate egestas euismod nunc semper vehicula lorem blandit'
+class: standard
+media_order: 'idf.jpg,ademe.png,ep.png'
+buttontext: 'Elevate my awareness'
+buttonurl: '#'
+features2:
     -
-        image: '!(idf.jpg)'
-        header: 'Markdown Syntax'
-        text: null
-        url: null
+        image: ademe.png
+        text: 'Lorem ipsum dolor sit amet consectetur et sed adipiscing elit. Curabitur vel sem sit dolor neque semper magna lorem ipsum.'
     -
-        icon: 'fa fa-code'
-        header: 'Twig Templating'
-        text: null
-        url: null
+        image: idf.jpg
+        text: 'Lorem ipsum dolor sit amet consectetur et sed adipiscing elit. Curabitur vel sem sit dolor neque semper magna lorem ipsum.'
     -
-        icon: 'fa fa-rocket'
-        header: 'Smart Caching'
-        text: null
-        url: null
-published: true
-hide_git_sync_repo_link: false
+        image: ep.png
+        text: 'Lorem ipsum dolor sit amet consectetur et sed adipiscing elit. Curabitur vel sem sit dolor neque semper magna lorem ipsum.'
 ---
-
-# Les partenaires
