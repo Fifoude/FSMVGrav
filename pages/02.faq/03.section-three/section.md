@@ -40,8 +40,8 @@ Afin de confirmer ton éligibilité à rejoindre la communauté aussi bien en ta
 > * tu détiennes le [Contrat d’Accès et d’Exploitation](https://www.enedis.fr/media/1905/download) si tu possèdes déjà une installation photovoltaïque.
 
 Pour confirmer ton engagement, nous te demanderons de signer:
-> * le consentement Enedis permettant aux FSMV d'avoir accès à vos consommations,
+> * le consentement Enedis permettant aux FSMV d'avoir accès à tes consommations,
 > * une lettre d'intention formalisant ton engagement vis-à-vis des FSMV,
 > * un contrat d'usage si tu désires devenir producteur avec une installation subventionnée par les FSMV.
 
-N'hésites pas à nous contacter pour de plus amples renseignements.
+N'hésites pas à nous [contacter](https://www.fsmv.fr/contact) pour de plus amples renseignements.
