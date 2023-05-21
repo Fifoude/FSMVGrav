@@ -7,6 +7,7 @@ media_order: 'idf.jpg,ademe.png,ep.png'
 features2:
     -
         image: ademe.png
+        url: https://www.ademe.com
         text: ''
     -
         image: idf.jpg
