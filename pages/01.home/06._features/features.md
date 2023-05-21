@@ -9,13 +9,13 @@ buttonurl: '#'
 features2:
     -
         image: ademe.png
-        text: 'Lorem ipsum dolor sit amet consectetur et sed adipiscing elit. Curabitur vel sem sit dolor neque semper magna lorem ipsum.'
+        text: 'Lorem ipsum dolor'
     -
         image: idf.jpg
-        text: 'Lorem ipsum dolor sit amet consectetur et sed adipiscing elit. Curabitur vel sem sit dolor neque semper magna lorem ipsum.'
+        text: 'Lorem ipsum'
     -
         image: ep.png
-        text: 'Lorem ipsum dolor sit amet consectetur et sed adipiscing elit. Curabitur vel sem sit dolor neque semper magna lorem ipsum.'
+        text: 'Lorem ipsum dolor'
 hide_git_sync_repo_link: false
 ---
 
