@@ -1,7 +1,7 @@
 ---
 title: '3. Le parcours ACC'
 child_type: subsection
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 hide_page_title: false
 media_order: 'test4.png,dessindupontv5.jpg,dessinfinalv2.jpg,gif-cec.gif'
 ---
