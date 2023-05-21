@@ -47,4 +47,4 @@ Pour confirmer ton engagement, nous te demanderons de signer:
 > * un contrat d'usage si tu veux devenir producteur avec une installation subventionnée par la région Île-de-France pour le compte des FSMV dans son rôle de tiers-investisseur.
 
 
-> **N'hésites pas à nous [contacter](../../#contact) pour de plus amples renseignements.**
+> **N'hésites pas à nous [contacter](../../contact) pour de plus amples renseignements.**
