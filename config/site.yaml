@@ -1,8 +1,8 @@
 title: FSMV
-default_lang: en
+default_lang: fr
 author:
-  name: 'John Appleseed'
-  email: john@example.com
+  name: null
+  email: philippe.lakas@gmail.com
 taxonomies:
   - category
   - tag

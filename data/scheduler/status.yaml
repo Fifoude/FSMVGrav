@@ -8,3 +8,6 @@ cache-purge:
 default-site-backup:
   state: success
   last-run: 1684630816
+git-sync:
+  state: success
+  last-run: 1684702803
