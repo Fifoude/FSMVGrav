@@ -1,4 +1,3 @@
-
 ---
 title: Personen
 personen:
@@ -36,4 +35,7 @@ personen:
                 size: 137
                 path: user/pages/01.home/05._three-columns/idf.jpg
 page_container: container
+published: false
+hide_git_sync_repo_link: false
 ---
+
