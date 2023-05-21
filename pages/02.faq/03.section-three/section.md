@@ -37,7 +37,7 @@ Afin de confirmer ton éligibilité à rejoindre la communauté aussi bien en ta
 > * tu ne sois pas déjà impliqué dans une autre communauté ACC,
 > * tu sois bien équipé d’un compteur Linky (le remplacement d’un ancien modèle est gratuit),
 > * tu aies ta dernière facture d'énergie à disposition,
-> * tu détiennes le [Contrat d’Accès et d’Exploitation](https://www.enedis.fr/media/1897/download) si tu possèdes déjà une installation photovoltaïque.
+> * tu détiennes le [Contrat d’Accès et d’Exploitation](https://www.enedis.fr/media/1905/download) si tu possèdes déjà une installation photovoltaïque.
 
 Pour confirmer ton engagement, nous te demanderons de signer:
 > * le consentement Enedis,
