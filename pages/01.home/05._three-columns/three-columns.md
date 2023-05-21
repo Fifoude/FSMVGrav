@@ -2,7 +2,7 @@
 title: '3 columns'
 process:
     markdown: true
-    twig: false
+    twig: true
 ---
 
         <div class="col-lg-4">
