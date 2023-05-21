@@ -182,11 +182,11 @@ Si vous connaissez exactement vos motivations ainsi que les conséquences d’un
 <script>let result = addNumbers(5, 3);
 console.log(result); // Output: 8</script>
 Dans tous les cas, la consultation des [Statuts](https://www.google.com/url?q=https://drive.google.com/file/d/1Wm-hCciqrirz9Dr5PCAuVlpkT0VyI1YP/view?usp%3Dsharing&sa=D&ust=1595158470555000&usg=AFQjCNHFzhPONnIAwDtlt12XGmzB6PtqmQ) et du [Document d’Information Synthétique](https://docs.google.com/document/d/1hyiYaa286eemfbzz6AJsbfWFojmbR7W8/edit?usp=sharing&ouid=116751752890100411817&rtpof=true&sd=true) (DIS) est également fortement conseillée!
-### ## Bulletin de souscription d’actions aux Fermes Solaires du Mont-Valérien
+### Bulletin de souscription d’actions aux Fermes Solaires du Mont-Valérien
 
 Ce formulaire permettra l’envoi d’une demande de souscription au Conseil de Gestion des FSMV. A travers ce formulaire, vous concrétisez votre envie de participer à l’aventure de l’énergie citoyenne qui reste à la portée de chacun en souscrivant une ou plusieurs actions de la société à gouvernance coopérative FSMV. A partir de 200 €, vous investissez dans la transition écologique et vous participez, en tant que fermier, à la gouvernance de votre coopérative.
 Ce formulaire s’adresse aux personnes physiques. Si vous représentez une personne morale, nous vous suggérons de nous appeler au préalable ou nous vous rappellerons en nous laissant vos coordonnées à l’adresse suivante: https://www.fsmv.fr/contact .
-#### ### ## Procédure pour devenir sociétaire:
+#### Procédure pour devenir sociétaire:
 
 1. Remplissez le formulaire ci-dessous,
 2. Réglez le montant de souscription préférentiellement par virement en indiquant précisément votre nom et prénom dans l’intitulé de votre virement:
