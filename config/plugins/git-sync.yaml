@@ -10,7 +10,7 @@ sync:
   on_save: true
   on_delete: true
   on_media: true
-  cron_enable: false
+  cron_enable: true
   cron_at: '0 12,23 * * *'
 local_repository: null
 repository: 'https://github.com/Fifoude/FSMVGrav.git'
