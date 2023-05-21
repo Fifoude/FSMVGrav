@@ -1,13 +1,6 @@
 enabled: true
 from: admin@fsmv.fr
-from_name: 'Les FSMV'
 to: philippe.lakas@gmail.com
-to_name: null
-queue:
-  enabled: false
-  flush_frequency: '* * * * *'
-  flush_msg_limit: 10
-  flush_time_limit: 100
 mailer:
   engine: sendmail
   smtp:
@@ -16,15 +9,17 @@ mailer:
     encryption: tls
     user: admin@fsmv.fr
     password: mS5_E1Cs7R3zmkE
-    auth_mode: null
   sendmail:
     bin: '/usr/sbin/sendmail -bs'
 content_type: text/html
 debug: false
-charset: null
+from_name: 'Les FSMV'
+queue:
+  enabled: false
+  flush_frequency: '* * * * *'
+  flush_msg_limit: 10
+  flush_time_limit: 100
 cc: null
-cc_name: null
-bcc: null
+bcc: plakas@mailo.com
 reply_to: null
-reply_to_name: null
 body: null
