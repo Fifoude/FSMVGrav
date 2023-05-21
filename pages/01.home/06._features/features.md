@@ -2,7 +2,7 @@
 title: 'Sed magna consequat lorem curabitur tempus'
 body_classes: modular
 subtitle: 'Elit aliquam vulputate egestas euismod nunc semper vehicula lorem blandit'
-class: small
+class: standard
 media_order: 'idf.jpg,ademe.png,ep.png'
 buttontext: 'Elevate my awareness'
 buttonurl: '#'
