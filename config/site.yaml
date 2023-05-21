@@ -1,0 +1,19 @@
+title: FSMV
+default_lang: en
+author:
+  name: 'John Appleseed'
+  email: john@example.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'My Grav Site'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
