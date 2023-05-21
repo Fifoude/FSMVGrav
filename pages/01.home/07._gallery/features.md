@@ -4,6 +4,6 @@ title: Galerie
 media_order: 'ademe.png,idf.jpg,ep.png'
 ---
 
-La Galerie
+# Les partenaires
 
 ![my image](ademe.png)
