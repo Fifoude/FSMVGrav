@@ -1,7 +1,7 @@
 ---
 title: '10 bonnes raisons de souscrire'
-taxonomy:
-    filter: [view1]
+hide_git_sync_repo_link: true
+hide_page_title: false
 ---
 
 Voici dix bonnes raisons de souscrire à la SAS, Société à Actions Simplifiée, des Fermes Solaires du Mont-Valérien, un groupement citoyen de production d’énergie photovoltaïque dans l'ouest parisien.
