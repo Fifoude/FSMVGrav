@@ -4,7 +4,7 @@ menu: Features
 class: small
 features:
     -
-        icon: 'fa fa-text-height'
+        icon: '![LOGO%20R%C3%A9gionIDF%202019](LOGO%20R%C3%A9gionIDF%202019.jpg "LOGO%20R%C3%A9gionIDF%202019")'
         header: 'Markdown Syntax'
         text: null
         url: null
