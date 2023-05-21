@@ -3,7 +3,7 @@ title: 'Les partenaires'
 body_classes: modular
 subtitle: 'Elit aliquam vulputate'
 class: standard
-media_order: 'idf.jpg,ademe.png,ep.png.png'
+media_order: 'idf.jpg,ademe.png'
 features2:
     -
         image: ademe.png
