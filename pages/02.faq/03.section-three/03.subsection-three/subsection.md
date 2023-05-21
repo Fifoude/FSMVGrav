@@ -1,7 +1,7 @@
 ---
 title: 'Tu veux devenir producteur...'
 media_order: 'gif-producteur.gif,dessinpigeonv2.jpg'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 hide_page_title: false
 ---
 
