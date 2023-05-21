@@ -19,27 +19,4 @@ La formalisation de toutes les conditions est disponible dans le contrat d’usa
 
 ![dessinpigeonv2](dessinpigeonv2.jpg "dessinpigeonv2")
 
-…la suite :
-
-En allant sur le portail des FSMV (https://erp.fsmv.fr) avec tes codes d’accès;
-
-    tu cliques sur “Projets” se trouvant dans le bandeau du haut,
-    puis “Nouveau projet” et donner un “Libellé projet” cohérent,
-    valider en cliquant le bouton “Créer brouillon”,
-    dans la mesure de tes compétences et tes connaissances, renseigne l’onglet “Projet” et l’onglet “Fichiers joints” avec :
-        pour le toit:
-            latitude & longitude,
-            inclinaison en degré,
-            azimuth (+270° plein ouest, 180° plein sud, 90° plein est),
-            photos sous plusieurs angles du toit,
-        local technique qui va accueillir l’onduleur (dans la FAQ tu trouveras des infos sur les différents termes):
-            photo du Linky,
-            photos de l’emplacement éventuel pour l’onduleur (pas nécessaire pour les maisons individuelles car installation d’un micro-onduleur sous les panneaux).
-
-NB : il faudra un emplacement disponible au niveau du compteur électrique pour installer le boîtier de marche/arrêt des panneaux
-
-        le cheminement des câbles entre le toit et le local technique:
-            estimation de la longueur du cheminement en mètres,
-            photos.
-        tous plans utiles permettant d’alimenter la constitution de la demande de raccordement d’Enedis et notamment la liste des “documents à joindre” en page 8.
-        tu peux également renseigner une adresse de site web comportant des informations pertinentes pour le projet. Merci!
+N'hésites pas à nous [contacter](https://www.fsmv.fr/contact) pour de plus amples renseignements.
