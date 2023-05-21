@@ -3,6 +3,7 @@ title: Contact
 content:
     items: '@self.modular'
 process:
+    markdown: true
     twig: true
 cache_enable: false
 form:
@@ -48,6 +49,8 @@ form:
             body: '{% include ''forms/data.html.twig'' %}'
         message: 'Thank you for getting in touch!'
         display: thankyou
+published: false
+hide_git_sync_repo_link: false
 ---
 
 # Formulaire de contact
