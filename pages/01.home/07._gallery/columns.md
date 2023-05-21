@@ -8,7 +8,7 @@ media_order: 'ademe.png,idf.jpg,ep.png'
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| ![my image](ademe.png)      | right-aligned | $1600 |
+| ![Ademe](ademe.png)      | ![EP](ep.png) | ![IdF](idf.jpg) |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
