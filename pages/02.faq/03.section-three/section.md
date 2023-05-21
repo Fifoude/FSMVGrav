@@ -46,4 +46,4 @@ Pour confirmer ton engagement, nous te demanderons de signer:
 > * une lettre d'intention formalisant ton engagement vis-à-vis des FSMV,
 > * un contrat d'usage si tu veux devenir producteur avec une installation subventionnée par la région Île-de-France pour le compte des FSMV dans son rôle de tiers-investisseur.
 
-N'hésites pas à nous [contacter](../contact) pour de plus amples renseignements.
+N'hésites pas à nous [contacter](../../contact) pour de plus amples renseignements.
