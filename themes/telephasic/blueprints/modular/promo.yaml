@@ -1,0 +1,34 @@
+title: Promo Page
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        promo:
+          type: tab
+          title: TELEPHASIC.ADMIN.MODULAR.PROMO.TAB
+          fields:
+            content_title:
+              type: spacer
+              title: TELEPHASIC.ADMIN.MODULAR.PROMO.OPTIONS
+            header.button_text:
+              type: text
+              label: TELEPHASIC.ADMIN.MODULAR.PROMO.BUTTON_TEXT
+              style: vertical
+            header.button_url:
+              type: text
+              style: vertical
+              label: TELEPHASIC.ADMIN.MODULAR.PROMO.BUTTON_URL
+            header.button_target:
+              type: toggle
+              label: TELEPHASIC.ADMIN.MODULAR.PROMO.BUTTON_TARGET
+              highlight: 1
+              default: 1
+              options:
+                  1: PLUGIN_ADMIN.YES
+                  0: PLUGIN_ADMIN.NO
+              validate:
+                  type: bool
