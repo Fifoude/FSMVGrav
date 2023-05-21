@@ -19,4 +19,4 @@ La formalisation de toutes les conditions est disponible dans le contrat d’usa
 
 ![dessinpigeonv2](dessinpigeonv2.jpg "dessinpigeonv2")
 
-> **N'hésites pas à nous [contacter]({{ home_url }}/#contact) pour de plus amples renseignements.**
+> **N'hésites pas à nous [contacter](../../../#contact) pour de plus amples renseignements.**
