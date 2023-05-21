@@ -190,7 +190,7 @@ Ce formulaire s’adresse aux personnes physiques. Si vous représentez une pers
 
 1. Remplissez le formulaire ci-dessous,
 2. Réglez le montant de souscription préférentiellement par virement en indiquant précisément votre nom et prénom dans l’intitulé de votre virement:
->     IBAN FR76 1027 8060 8600 0210 4680 250 – BIC : CMCIFR2A
+>     **IBAN FR76 1027 8060 8600 0210 4680 250 – BIC : CMCIFR2A**
 3. Vous recevrez une attestation de confirmation après le délai de traitement administratif et notamment l’acceptation de votre souscription par le Conseil de Gestion des FSMV.
 
 Si vous ne pouvez pas faire autrement, vous pouvez également envoyer un chèque du montant correspondant à l’ordre de « SAS Fermes Solaires du Mont-Valérien », par courrier à l’adresse suivante: 19 rue des Ibiscus 92500 Rueil-Malmaison
