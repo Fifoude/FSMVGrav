@@ -1,6 +1,6 @@
 ---
 title: 'Informations concernant l’actionnariat'
-hide_git_sync_repo_link: false
+hide_git_sync_repo_link: true
 hide_page_title: false
 ---
 
