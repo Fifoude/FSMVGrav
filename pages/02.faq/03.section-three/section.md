@@ -8,7 +8,7 @@ media_order: 'test4.png,dessindupontv5.jpg,dessinfinalv2.jpg,gif-cec.gif'
 
 ![test4](test4.png "Le parcours de l'ACC")
 ### Présentation
-Dans le cadre de l'Autoconsommation Collective, tu as plusieurs façons de t'impliquer dans la communauté énergétique des Fermes Solaires du Mont-Valérien:
+Dans le cadre de l'**A**uto**C**onsommation **C**ollective (ACC), tu as plusieurs façons de t'impliquer dans la communauté énergétique des Fermes Solaires du Mont-Valérien:
 * **consommateur** avec l’avantage de profiter d’une énergie renouvelable produite à moins de 2 km de chez toi,
 * **producteur** en fournissant ton excédent de production aux consommateurs à des conditions très favorables.
 
