@@ -8,7 +8,7 @@ Avertissement : seuls les [statuts](https://www.google.com/url?q=https%3A%2F%2Fd
 
 ####1 - Comment s'inscrivent les FSMV dans l'actionnariat ?
 
-Les Fermes Solaires du Mont-Valérien (FSMV) sont une Société par Actions Simplifiée à capital variable et à gouvernance coopérative. Sa gouvernance est établie sur le principe coopératif, soit **une personne = une voix**. Elle est reconnue comme faisant partie de l’Économie Sociale et Solidaire.
+Les Fermes Solaires du Mont-Valérien (FSMV) sont une Société par Actions Simplifiée à capital variable et à gouvernance coopérative. Sa gouvernance est établie sur le principe coopératif, soit **_une personne = une voix_**. Elle est reconnue comme faisant partie de l’Économie Sociale et Solidaire.
 
 Les FSMV s’inscrivent dans le mouvement de l’énergie citoyenne et partage les valeurs portées par la Charte d’Énergie Partagée et la démarche négaWatt. C’est une structure humaine, technique et commerciale qui porte la mobilisation citoyenne pour une transition énergétique.
 ####2 - Qu’est-ce qu’une action FSMV ?
