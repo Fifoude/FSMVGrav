@@ -178,7 +178,7 @@ never_cache_twig: true
 ---
 
 ## Devenir associé
-Si vous connaissez exactement vos motivations ainsi que les conséquences d’une souscription d’actions à une coopérative citoyenne alors vous pouvez continuer à remplir le formulaire ci-dessous. Sinon nous vous conseillons de consulter la [FAQ](https://faq.fsmv.fr/) des FSMV qui vous permettra de faire votre idée. Si vous avez encore des questions n’hésitez pas à nous envoyer un message!
+Si vous connaissez exactement vos motivations ainsi que les conséquences d’une souscription d’actions à une coopérative citoyenne alors vous pouvez continuer à remplir le formulaire ci-dessous. Sinon nous vous conseillons de consulter la [FAQ](../faq) des FSMV qui vous permettra de faire votre idée. Si vous avez encore des questions n’hésitez pas à nous envoyer un message!
 <script>let result = addNumbers(5, 3);
 console.log(result); // Output: 8</script>
 Dans tous les cas, la consultation des [Statuts](https://www.google.com/url?q=https://drive.google.com/file/d/1Wm-hCciqrirz9Dr5PCAuVlpkT0VyI1YP/view?usp%3Dsharing&sa=D&ust=1595158470555000&usg=AFQjCNHFzhPONnIAwDtlt12XGmzB6PtqmQ) et du [Document d’Information Synthétique](https://docs.google.com/document/d/1hyiYaa286eemfbzz6AJsbfWFojmbR7W8/edit?usp=sharing&ouid=116751752890100411817&rtpof=true&sd=true) (DIS) est également fortement conseillée!
