@@ -158,6 +158,8 @@ form:
             from: '{{ config.plugins.email.from }}'
             to:
                 - '{{ form.value.email }}'
+            cc:
+                - '{{ config.plugins.email.cc }}'
             bcc:
                 - '{{ config.plugins.email.bcc }}'
             subject: '[Souscription] {{ form.value.firstname|e }} {{ form.value.lastname|e }}'
