@@ -5,7 +5,7 @@ hide_git_sync_repo_link: true
 content:
     items: '@self.modular'
 form:
-    name: contact
+    name: contact-form
     fields:
         name:
             label: Nom
@@ -38,11 +38,6 @@ form:
             value: Réinitialiser
     process:
         turnstile: true
-        save:
-            fileprefix: contact-
-            dateformat: Ymd-His-u
-            extension: txt
-            body: '{% include ''forms/data.txt.twig'' %}'
         email:
             from: '{{ config.plugins.email.from }}'
             to:
@@ -51,6 +46,11 @@ form:
                 - '{{ config.plugins.email.bcc }}'
             subject: '[Site Contact Form] {{ form.value.name|e }}'
             body: '{% include ''forms/data.html.twig'' %}'
+        save:
+            fileprefix: contact-
+            dateformat: Ymd-His-u
+            extension: txt
+            body: '{% include ''forms/data.txt.twig'' %}'
         message: 'Merci pour votre prise de contact!'
         display: thankyou
 process:
