@@ -39,6 +39,7 @@ form:
             type: reset
             value: Réinitialiser
     process:
+        turnstile: true
         save:
             fileprefix: contact-
             dateformat: Ymd-His-u
