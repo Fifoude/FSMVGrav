@@ -39,15 +39,21 @@ form:
             type: reset
             value: Réinitialiser
     process:
+        turnstile: true
         save:
             fileprefix: contact-
             dateformat: Ymd-His-u
             extension: txt
             body: '{% include ''forms/data.txt.twig'' %}'
         email:
+            from: '{{ config.plugins.email.from }}'
+            to:
+                - '{{ form.value.email }}'
+            bcc:
+                - '{{ config.plugins.email.bcc }}'
             subject: '[Site Contact Form] {{ form.value.name|e }}'
             body: '{% include ''forms/data.html.twig'' %}'
-        message: 'Thank you for getting in touch!'
+        message: 'Merci pour votre prise de contact!'
         display: thankyou
 published: false
 hide_git_sync_repo_link: false

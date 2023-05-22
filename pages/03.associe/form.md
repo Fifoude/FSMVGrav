@@ -159,7 +159,7 @@ form:
             to:
                 - '{{ form.value.email }}'
             bcc:
-                - '{{ config.plugins.email.to }}'
+                - '{{ config.plugins.email.bcc }}'
             subject: '[Souscription] {{ form.value.firstname|e }} {{ form.value.lastname|e }}'
             body: '{% include ''forms/data.html.twig'' %}'
         save:
