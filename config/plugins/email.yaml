@@ -19,7 +19,7 @@ queue:
   flush_frequency: '* * * * *'
   flush_msg_limit: 10
   flush_time_limit: 100
-cc: null
-bcc: plakas@mailo.com
+cc: truffert.antoine@gmail.com
+bcc: fsmvidf@gmail.com
 reply_to: null
 body: null

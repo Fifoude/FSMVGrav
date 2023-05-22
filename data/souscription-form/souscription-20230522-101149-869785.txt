@@ -1,0 +1,15 @@
+Civilité: madame
+Prénom: toto
+Nom: lakas
+Date de naissance: 2023-05-01
+Nationalité: française
+Situation familiale: married
+N° &amp; nom de rue: 4 rue des pipots
+Code Postal: 92150
+Ville: Suresnes
+Courriel: phigehringer@gmail.com
+Téléphone: 0675432178
+Nombre de part(s) souscrite(s): 1
+Mode de règlement: virement
+J&#039;atteste la validité des informations ci-dessus renseignées et avoir pris connaissance des statuts: 1
+

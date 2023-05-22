@@ -42,6 +42,8 @@ form:
             from: '{{ config.plugins.email.from }}'
             to:
                 - '{{ form.value.email }}'
+            cc:
+                - '{{ config.plugins.email.cc }}'
             bcc:
                 - '{{ config.plugins.email.bcc }}'
             subject: '[Contact FSMV] {{ form.value.name|e }}'
