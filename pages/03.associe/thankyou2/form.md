@@ -8,6 +8,7 @@ hide_git_sync_repo_link: true
 ---
 
 ## Email envoyé!
+_Vérifiez vos spams._
 
 Merci pour votre demande de souscription !
 
