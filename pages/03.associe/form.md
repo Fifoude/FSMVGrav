@@ -102,7 +102,6 @@ form:
             label: Téléphone
             validate:
                 required: true
-                pattern: '[0][1-9] [0-9][0-9] [0-9][0-9] [0-9][0-9] [0-9][0-9]'
         share:
             type: number
             label: 'Nombre de part(s) souscrite(s)'
