@@ -1,9 +1,9 @@
 cache-clear:
   state: success
-  last-run: 1684630816
+  last-run: 1684717202
 cache-purge:
   state: failure
-  last-run: 1684634401
+  last-run: 1684720802
   error: 'Unknown error'
 default-site-backup:
   state: success
