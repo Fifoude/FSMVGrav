@@ -2,7 +2,7 @@ enabled: true
 from: admin@fsmv.fr
 to: philippe.lakas@gmail.com
 mailer:
-  engine: sendmail
+  engine: native
   smtp:
     server: smtp.ionos.fr
     port: 465
