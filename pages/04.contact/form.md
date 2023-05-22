@@ -44,7 +44,7 @@ form:
                 - '{{ form.value.email }}'
             bcc:
                 - '{{ config.plugins.email.bcc }}'
-            subject: '[Site Contact Form] {{ form.value.name|e }}'
+            subject: '[Contact FSMV] {{ form.value.name|e }}'
             body: '{% include ''forms/data.html.twig'' %}'
         save:
             fileprefix: contact-
