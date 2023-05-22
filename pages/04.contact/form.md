@@ -61,5 +61,5 @@ never_cache_twig: true
 ---
 
 # Formulaire de contact
-{% include "forms/form.html.twig" with {form: forms('contact-form')} %}
+
 
