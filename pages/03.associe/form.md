@@ -168,7 +168,7 @@ form:
             extension: txt
             body: '{% include ''forms/data.txt.twig'' %}'
         message: 'Merci pour votre souscription!'
-        display: thankyou
+        display: thankyou2
 process:
     markdown: true
     twig: true
