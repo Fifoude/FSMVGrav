@@ -1,11 +1,9 @@
 ---
 title: Contact
+external_links: {  }
+hide_git_sync_repo_link: true
 content:
     items: '@self.modular'
-process:
-    markdown: true
-    twig: true
-cache_enable: false
 form:
     name: contact
     fields:
@@ -55,8 +53,11 @@ form:
             body: '{% include ''forms/data.html.twig'' %}'
         message: 'Merci pour votre prise de contact!'
         display: thankyou
-published: false
-hide_git_sync_repo_link: false
+process:
+    markdown: true
+    twig: true
+twig_first: true
+never_cache_twig: true
 ---
 
 # Formulaire de contact
