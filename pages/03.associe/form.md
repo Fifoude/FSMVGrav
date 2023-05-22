@@ -163,7 +163,7 @@ form:
             subject: '[Souscription] {{ form.value.firstname|e }} {{ form.value.lastname|e }}'
             body: '{% include ''forms/data.html.twig'' %}'
         save:
-            fileprefix: feedback-
+            fileprefix: souscription-
             dateformat: Ymd-His-u
             extension: txt
             body: '{% include ''forms/data.txt.twig'' %}'
