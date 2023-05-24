@@ -1,7 +1,7 @@
 ---
 title: Contact
 external_links: {  }
-hide_git_sync_repo_link: true
+hide_git_sync_repo_link: false
 content:
     items: '@self.modular'
 form:
