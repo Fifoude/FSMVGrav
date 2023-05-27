@@ -1,0 +1,160 @@
+name: Matomo
+slug: matomo
+type: plugin
+version: 1.2.1
+description: Integrate Matomo analytics into Grav CMS
+icon: bar-chart
+author:
+  name: NicoHood
+  email: grav@nicohood.de
+homepage: https://github.com/NicoHood/grav-plugin-matomo
+keywords: grav, plugin, matomo, piwik, tracking, analytics, log, visitor, count
+bugs: https://github.com/NicoHood/grav-plugin-matomo/issues
+docs: https://github.com/NicoHood/grav-plugin-matomo/blob/develop/README.md
+license: GPL3
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }
+
+form:
+  validation: loose
+  fields:
+    enabled:
+      type: toggle
+      label: PLUGIN_ADMIN.PLUGIN_STATUS
+      highlight: 1
+      default: 0
+      options:
+        1: PLUGIN_ADMIN.ENABLED
+        0: PLUGIN_ADMIN.DISABLED
+      validate:
+        type: bool
+
+    connection:
+      type: section
+      title: PLUGIN_MATOMO.CONNECTION
+
+      fields:
+        matomo_url:
+          type: text
+          placeholder: 'https://example.tld'
+          label: PLUGIN_MATOMO.MATOMO_URL
+          help: PLUGIN_MATOMO.MATOMO_URL_HELP
+          validate:
+            required: true
+
+        site_id:
+          type: number
+          placeholder: '1'
+          default: 1
+          label: PLUGIN_MATOMO.SITE_ID
+          help: PLUGIN_MATOMO.SITE_ID_HELP
+          validate:
+            min: 1
+            required: true
+
+        token:
+          type: text
+          label: PLUGIN_MATOMO.MATOMO_TOKEN
+          help: PLUGIN_MATOMO.MATOMO_TOKEN_HELP
+          validate:
+            required: true
+
+    privacy:
+      type: section
+      title: PLUGIN_MATOMO.PRIVACY
+
+      fields:
+        respect_do_not_track:
+          type: toggle
+          label: PLUGIN_MATOMO.RESPECT_DO_NOT_TRACK
+          help: PLUGIN_MATOMO.RESPECT_DO_NOT_TRACK_HELP
+          highlight: 1
+          default: 1
+          options:
+            1: PLUGIN_ADMIN.ENABLED
+            0: PLUGIN_ADMIN.DISABLED
+          validate:
+            type: bool
+
+        enable_cookies:
+          type: toggle
+          label: PLUGIN_MATOMO.ENABLE_COOKIES
+          help: PLUGIN_MATOMO.ENABLE_COOKIES_HELP
+          highlight: 1
+          default: 0
+          options:
+            1: PLUGIN_ADMIN.ENABLED
+            0: PLUGIN_ADMIN.DISABLED
+          validate:
+            type: bool
+
+        enable_javascript:
+          type: toggle
+          label: PLUGIN_MATOMO.ENABLE_JAVASCRIPT
+          help: PLUGIN_MATOMO.ENABLE_JAVASCRIPT_HELP
+          highlight: 1
+          default: 0
+          options:
+            1: PLUGIN_ADMIN.ENABLED
+            0: PLUGIN_ADMIN.DISABLED
+          validate:
+            type: bool
+
+        blockedIpAddresses:
+          type: array
+          size: large
+          label: PLUGIN_MATOMO.BLOCKED_IP_ADDRESSES
+          help: PLUGIN_MATOMO.BLOCKED_IP_ADDRESSES_HELP
+          placeholder_value: PLUGIN_MATOMO.BLOCKED_IP_ADDRESSES_VALUE
+          value_only: true
+
+        blockedIpRanges:
+          type: array
+          size: large
+          label: PLUGIN_MATOMO.BLOCKED_IP_RANGES
+          help: PLUGIN_MATOMO.BLOCKED_IP_RANGES_HELP
+          placeholder_value: PLUGIN_MATOMO.BLOCKED_IP_RANGES_VALUE
+          value_only: true
+
+        blockingCookie:
+          type: text
+          label: PLUGIN_MATOMO.BLOCKING_COOKIE
+          help: PLUGIN_MATOMO.BLOCKING_COOKIE_HELP
+          size: small
+          default: "blockMatomo"
+
+    dashboard:
+      type: section
+      title: PLUGIN_MATOMO.DASHBOARD
+
+      fields:
+        dashboard_token:
+          type: text
+          label: PLUGIN_MATOMO.DASHBOARD_TOKEN
+          help: PLUGIN_MATOMO.DASHBOARD_TOKEN_HELP
+
+        dashboard_site_id:
+          type: number
+          placeholder: '1'
+          label: PLUGIN_MATOMO.DASHBOARD_SITE_ID
+          help: PLUGIN_MATOMO.DASHBOARD_SITE_ID_HELP
+          validate:
+            min: 1
+
+    development:
+      type: section
+      title: PLUGIN_MATOMO.DEVELOPMENT
+
+      fields:
+        debug:
+          type: toggle
+          label: PLUGIN_MATOMO.ENABLE_DEBUG
+          help: PLUGIN_MATOMO.ENABLE_DEBUG_HELP
+          highlight: 1
+          default: 0
+          options:
+            1: PLUGIN_ADMIN.ENABLED
+            0: PLUGIN_ADMIN.DISABLED
+          validate:
+            type: bool
