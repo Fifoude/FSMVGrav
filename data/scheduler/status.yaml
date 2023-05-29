@@ -9,6 +9,5 @@ default-site-backup:
   state: success
   last-run: 1685235616
 git-sync:
-  state: failure
-  last-run: 1685307733
-  error: 'fatal: unable to access ''https://github.com/Fifoude/FSMVGrav.git/'': Failed to connect to github.com port 443: Connection timed out'
+  state: success
+  last-run: 1685354405
