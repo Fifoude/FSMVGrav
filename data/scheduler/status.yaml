@@ -9,4 +9,4 @@ default-site-backup:
   last-run: 1691888423
 git-sync:
   state: success
-  last-run: 1692046805
+  last-run: 1692093604
