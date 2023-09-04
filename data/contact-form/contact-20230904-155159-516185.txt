@@ -1,0 +1,6 @@
+Nom: Alain BERTOUT
+Email: alainbertout@yahoo.fr
+Message: Délestage surplus solaire, suite à notre entrevue au Forum des Associations ( pour la direction FSMV )
+Bonjour
+Je ne serai pas présent au club scientifique de Rueil F6KFA samedi prochain ( ouvert à 11h) , mais d&#039;autres ingénieurs compétents pourrons vous y écouter. J&#039;ai un peu réfléchi à votre question, la fonction que vous rechercher se rapproche d&#039;un délesteur voir la video https://www.youtube.com/watch?v=HiVCzVpzHYQ   Il faudrait développer une électronique qui communiquerait avec votre API pour commander par exemple ce type d&#039;appareil. Bien cordialement        Alain BERTOUT      mon téléphone 06 11 23 33 00
+
