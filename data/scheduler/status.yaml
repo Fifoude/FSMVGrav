@@ -1,12 +1,13 @@
 cache-clear:
   state: success
-  last-run: 1697158802
+  last-run: 1697245202
 cache-purge:
   state: success
-  last-run: 1697162402
+  last-run: 1697248801
 default-site-backup:
   state: success
   last-run: 1696726819
 git-sync:
-  state: success
-  last-run: 1697191205
+  state: failure
+  last-run: 1697230803
+  error: "hint: Pulling without specifying how to reconcile divergent branches is\r\nhint: discouraged. You can squelch this message by running one of the following\r\nhint: commands sometime before your next pull:\r\nhint:\r\nhint:   git config pull.rebase false  # merge (the default strategy)\r\nhint:   git config pull.rebase true   # rebase\r\nhint:   git config pull.ff only       # fast-forward only\r\nhint:\r\nhint: You can replace \"git config\" with \"git config --global\" to set a default\r\nhint: preference for all repositories. You can also pass --rebase, --no-rebase,\r\nhint: or --ff-only on the command line to override the configured default per\r\nhint: invocation.\r\nfatal: unable to access 'https://github.com/Fifoude/FSMVGrav.git/': Empty reply from server"
